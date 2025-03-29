@@ -1,0 +1,2 @@
+# MyThreadServer
+通过多线程和Socket，实现一个服务端和多个客户端的消息分发功能
